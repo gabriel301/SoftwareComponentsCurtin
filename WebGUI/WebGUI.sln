@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebGUI", ".", "{BEF4BD47-1AA7-4C03-A199-F260086D5D60}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/WebGUI"
+		Debug.AspNetCompiler.PhysicalPath = "..\WebGUI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebGUI\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WebGUI"
+		Release.AspNetCompiler.PhysicalPath = "..\WebGUI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebGUI\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54576"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF4BD47-1AA7-4C03-A199-F260086D5D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF4BD47-1AA7-4C03-A199-F260086D5D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF4BD47-1AA7-4C03-A199-F260086D5D60}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF4BD47-1AA7-4C03-A199-F260086D5D60}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
